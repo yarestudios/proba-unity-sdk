@@ -1,0 +1,18 @@
+{
+    "name": "com.yarestudios.proba",
+    "version": "1.0.0",
+    "displayName": "Proba Unity SDK",
+    "description": "SDK to simplify requests to proba's API",
+    "unity": "2019.1",
+    "unityRelease": "0b5",
+    "dependencies": {},
+    "keywords": [
+        "proba",
+        "devX"
+    ],
+    "author": {
+        "name": "Yare Studios",
+        "email": "yarestudios@gmail.com",
+        "url": "http://www.yarestudios.com"
+    }
+}
