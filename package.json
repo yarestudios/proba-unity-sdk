@@ -1,6 +1,6 @@
 {
     "name": "com.yarestudios.proba",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "displayName": "Proba Unity SDK",
     "description": "SDK to simplify requests to proba's API",
     "unity": "2019.1",
