@@ -2,7 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ProbaTest
+namespace Proba
 {
-    public static string Hello = "World";
+    public class ProbaTest
+    {
+        public static string Hello = "World";
+    }
 }
+
